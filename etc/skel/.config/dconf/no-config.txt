@@ -1,0 +1,2 @@
+As of 26-02-2022 we decided not to add any settings.
+These are pure Arch settings.
